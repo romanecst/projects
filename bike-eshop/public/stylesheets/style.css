@@ -1,0 +1,30 @@
+body{
+    font-family: 'Darker Grotesque', sans-serif;
+    margin-bottom: 2cm;
+} 
+
+a, a:hover{
+    color: white
+}
+
+#picture-header {
+    background-image: url('/images/bikeshop-assets/bike-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+
+}
+
+.basket-img{
+    width: 170px;
+}
+
+#ariane {
+    margin-top: 1cm;
+}
+
